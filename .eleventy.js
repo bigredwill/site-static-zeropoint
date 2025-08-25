@@ -1,4 +1,4 @@
-const siteName = "ZeroPoint";
+const siteName = "site-static-site-static-zeropoint";
 
 /**
  * Wait! Before you edit this file!

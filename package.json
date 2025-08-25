@@ -1,5 +1,5 @@
 {
-  "name": "ZeroPoint",
+  "name": "site-static-site-static-zeropoint",
   "version": "1.0.2",
   "description": "",
   "type": "module",
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+project_urlname"
   },
-  "author": "MWDelaney",
+  "author": "bigredwill",
   "license": "MIT",
   "browserslist": [
     "last 2 versions"
